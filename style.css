@@ -1,0 +1,70 @@
+
+#nav {
+  top: 0;
+  height: 50px;
+  
+}
+
+#navbg {
+  background-color: rgb(60, 141, 115);
+}
+
+#home {
+  background-color: brown;
+  padding: 6px 15px;
+  color: white;
+
+  font-size: 14px;
+}
+
+#about ,#sale , #profile , #cart {
+  padding: 6px 15px;
+  font-size: 14px;
+  color: rgb(238, 243, 243);
+}
+
+/* #sale {
+  padding: 6px 15px;
+  font-size: 14px;
+  color: rgba(139, 243, 245, 0.451);
+}
+
+#profile {
+  padding: 6px 15px;
+  font-size: 14px;
+  color: rgba(139, 243, 245, 0.451);
+}
+
+#cart {
+  padding: 6px 12px;
+  font-size: 14px;
+  color: rgba(139, 243, 245, 0.451);
+
+} */
+#img1 , #img2 ,#img3, #img4 ,#img5 , #img6 ,#img7,#img8,#img9,#img10,#img11,#img12 ,#img13 ,#img14 ,#img15{
+    
+    margin: 17px;
+    padding: 0px , 22px;
+    box-sizing: border-box;
+    
+}
+#Images
+{
+    padding: 5px 22px;
+    
+}
+#main{
+    background-color: rgb(231, 232, 232);
+    margin: 24px;
+    
+}
+#footerdata
+{
+    background-color: rgb(61, 59, 59);
+    color: whitesmoke;
+    
+}
+#f1 ,#f2 ,#f3{
+    padding: 22px 32px;
+    color: whitesmoke;
+}
